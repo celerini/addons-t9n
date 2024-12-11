@@ -1,16 +1,16 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Battle for Wesnoth\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-10-24 01:45 UTC\n"
-"PO-Revision-Date: 2024-12-11 21:12+0100\n"
-"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
-"Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
+"PO-Revision-Date: 2024-12-11 14:06+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cs_CZ\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: cs\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 3.5\n"
 
 #. [campaign]: id=Assassin_in_the_Forest
 #. [scenario]: id=Stabs
@@ -18,6 +18,8 @@ msgstr ""
 #: Assassin_in_the_Forest/Assassin_in_the_Forest.cfg:11
 msgid "Assassin in the Forest"
 msgstr ""
+"Vrah v lese\n"
+" "
 
 #. [campaign]: id=Assassin_in_the_Forest
 #: Assassin_in_the_Forest/_main.cfg:15
@@ -31,87 +33,95 @@ msgid ""
 "The map is part of the mainline multiplayer mode, known under the name 5p — "
 "Forest of Fear."
 msgstr ""
+"<i>kuch kuch</i>\n"
+"\n"
+" Hraj za osamělého ale velmi zkušeného zabijáka. Číhej ve stínu a čekej až "
+"nastane ten nejlepší okamžik k útoku.\n"
+"\n"
+"\n"
+"Mapa je součástí hlavního režimu pro více hráčů, známého pod názvem 5p - Les "
+"Strachu."
 
 #. [campaign]: id=Assassin_in_the_Forest
 #: Assassin_in_the_Forest/_main.cfg:21
 msgid "AitF"
-msgstr ""
+msgstr "Aitf"
 
 #. [difficulty]
 #: Assassin_in_the_Forest/_main.cfg:31
 msgid "challenging"
-msgstr ""
+msgstr "náročná"
 
 #. [difficulty]
 #: Assassin_in_the_Forest/_main.cfg:40
 msgid "hard"
-msgstr ""
+msgstr "obtížná"
 
 #. [difficulty]
 #: Assassin_in_the_Forest/_main.cfg:49
 msgid "kill all"
-msgstr ""
+msgstr "zlý sen"
 
 #. [side]: type=Elvish Captain
 #: Assassin_in_the_Forest/Assassin_in_the_Forest.cfg:65
 msgid "Target 1"
-msgstr ""
+msgstr "Cíl 1"
 
 #. [side]: type=Elvish Captain
 #: Assassin_in_the_Forest/Assassin_in_the_Forest.cfg:70
 msgid "Irliyfil"
-msgstr ""
+msgstr "Irliyfil"
 
 #. [side]: type=Dwarvish Steelclad
 #: Assassin_in_the_Forest/Assassin_in_the_Forest.cfg:81
 msgid "Target 2"
-msgstr ""
+msgstr "Cíl 2"
 
 #. [side]: type=Dwarvish Steelclad
 #: Assassin_in_the_Forest/Assassin_in_the_Forest.cfg:86
 msgid "Gran"
-msgstr ""
+msgstr "Gran"
 
 #. [side]: type=Lieutenant
 #: Assassin_in_the_Forest/Assassin_in_the_Forest.cfg:97
 msgid "Target 3"
-msgstr ""
+msgstr "Cíl 3"
 
 #. [side]: type=Lieutenant
 #: Assassin_in_the_Forest/Assassin_in_the_Forest.cfg:102
 msgid "Sir Tyreat"
-msgstr ""
+msgstr "Sir Tyreat"
 
 #. [side]: type=Drake Flare
 #: Assassin_in_the_Forest/Assassin_in_the_Forest.cfg:113
 msgid "Target 4"
-msgstr ""
+msgstr "Cíl 4"
 
 #. [side]: type=Drake Flare
 #: Assassin_in_the_Forest/Assassin_in_the_Forest.cfg:118
 msgid "Kareshi"
-msgstr ""
+msgstr "Kareshi"
 
 #. [side]: type=Orcish Warrior
 #: Assassin_in_the_Forest/Assassin_in_the_Forest.cfg:129
 msgid "Target 5"
-msgstr ""
+msgstr "Cíl 5"
 
 #. [side]: type=Orcish Warrior
 #: Assassin_in_the_Forest/Assassin_in_the_Forest.cfg:134
 msgid "Bnaa"
-msgstr ""
+msgstr "Bnaa"
 
 #. [objective]: condition=win
 #: Assassin_in_the_Forest/Assassin_in_the_Forest.cfg:362
 msgid "Use your skills to eliminate the enemy leaders"
-msgstr ""
+msgstr "Použij své dovednosti k odstranění nepřátelských vůdců"
 
 #. [objective]: condition=win
 #: Assassin_in_the_Forest/Assassin_in_the_Forest.cfg:364
 msgid ""
 "Use your skills to eliminate <span underline='single'>all</span> enemy units"
-msgstr ""
+msgstr "Použij své dovednosti k odstranění nepřátelských jednotek"
 
 #. [objectives]
 #: Assassin_in_the_Forest/Assassin_in_the_Forest.cfg:367
@@ -123,32 +133,44 @@ msgid ""
 "• regains 1 MP for each hit with his melee weapon\n"
 "• can use remaining knives after attacking with his ranged weapon</span>"
 msgstr ""
+"Tvůj vrah je harcovník a:\n"
+"<span color='#AAFFFF'>•může se schovat ve vesnicích\n"
+"•může se schovat během noci\n"
+"•může se schovat pokud nepoužil víc než polovinu jeho bodů pohybu\n"
+"•získává 1 pohybový bod za každý zásah svou zbraní na blízko\n"
+"• může použít zbývající nože po útoku zbraní na dálku</span>"
 
 #: Assassin_in_the_Forest/Forest_Assassin.cfg:4
 msgid "This unit can hide from enemies by sacrificing half of it’s MP."
 msgstr ""
+"Tato jednotka se může skrýt před nepřáteli, pokud obětuje polovinu svých "
+"bodů pohybu"
 
 #: Assassin_in_the_Forest/Forest_Assassin.cfg:6
 msgid ""
 "Every melee hit of this unit gives her MP back, which allow her to escape to "
 "a better position after the fight."
 msgstr ""
+"Každý zásah této jednotky při boji zblízka jí vrátí bod pohybu, což jí "
+"umožní po boji uniknout do lepší pozice."
 
 #: Assassin_in_the_Forest/Forest_Assassin.cfg:8
 msgid ""
 "If this unit has knives left after a ranged battle, it might throw them at "
 "another bystanding unit."
 msgstr ""
+"Pokud této jednotce zbyly po boji na dálku nože, může je hodit na jinou "
+"jednotku poblíž."
 
 #. [hides]: id=sneak
 #: Assassin_in_the_Forest/Forest_Assassin.cfg:35
 msgid "sneak"
-msgstr ""
+msgstr "plížení"
 
 #. [hides]: id=sneak
 #: Assassin_in_the_Forest/Forest_Assassin.cfg:36
 msgid "female^sneak"
-msgstr ""
+msgstr "plížení"
 
 #. [hides]: id=sneak
 #: Assassin_in_the_Forest/Forest_Assassin.cfg:37
@@ -156,6 +178,8 @@ msgid ""
 "This unit can hide from enemies if it has used no more than half of its "
 "movement points."
 msgstr ""
+" Tato jednotka se může skrýt před nepřáteli, pokud nevyužila více než "
+"polovinu svých bodů pohybu."
 
 #. [dummy]: id=slashdash
 #: Assassin_in_the_Forest/Forest_Assassin.cfg:57
@@ -166,12 +190,12 @@ msgstr ""
 #: Assassin_in_the_Forest/Forest_Assassin.cfg:58
 msgid ""
 "When used offensively, every hit with this weapon grants 1 movement point."
-msgstr ""
+msgstr "Při útočném použití získáte za každý zásah touto zbraní 1 bod pohybu."
 
 #. [dummy]: id=remaining_ammo
 #: Assassin_in_the_Forest/Forest_Assassin.cfg:70
 msgid "remaining knives"
-msgstr ""
+msgstr "zbývající nože"
 
 #. [dummy]: id=remaining_ammo
 #: Assassin_in_the_Forest/Forest_Assassin.cfg:71
@@ -179,8 +203,10 @@ msgid ""
 "If any ammo remains after killing a unit with this attack, then it may be "
 "used in another attack."
 msgstr ""
+"Pokud po zabití jednotky tímto útokem zůstane nějaká munice, lze ji použít "
+"při dalším útoku."
 
-#. [unit_type]: id=Forest_Assassin, description= 
+#. [unit_type]: id=Forest_Assassin, description=
 #: Assassin_in_the_Forest/Forest_Assassin.cfg:78
 msgid "Forest Assassin"
-msgstr ""
+msgstr "Lesní vrah"
