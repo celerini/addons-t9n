@@ -1,0 +1,173 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2021-10-24 01:45 UTC\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [campaign]: id=Assassin_in_the_Forest
+#. [scenario]: id=Stabs
+#: Assassin_in_the_Forest/_main.cfg:14
+#: Assassin_in_the_Forest/Assassin_in_the_Forest.cfg:11
+msgid "Assassin in the Forest"
+msgstr ""
+
+#. [campaign]: id=Assassin_in_the_Forest
+#: Assassin_in_the_Forest/_main.cfg:15
+msgid ""
+"<i>stabble stabble</i>\n"
+"\n"
+"Play as a lone but highly-skilled assassin. Lurk in the shadows and wait until the best moment to strike presents itself.\n"
+"\n"
+"\n"
+"The map is part of the mainline multiplayer mode, known under the name 5p — Forest of Fear."
+msgstr ""
+
+#. [campaign]: id=Assassin_in_the_Forest
+#: Assassin_in_the_Forest/_main.cfg:21
+msgid "AitF"
+msgstr ""
+
+#. [difficulty]
+#: Assassin_in_the_Forest/_main.cfg:31
+msgid "challenging"
+msgstr ""
+
+#. [difficulty]
+#: Assassin_in_the_Forest/_main.cfg:40
+msgid "hard"
+msgstr ""
+
+#. [difficulty]
+#: Assassin_in_the_Forest/_main.cfg:49
+msgid "kill all"
+msgstr ""
+
+#. [side]: type=Elvish Captain
+#: Assassin_in_the_Forest/Assassin_in_the_Forest.cfg:65
+msgid "Target 1"
+msgstr ""
+
+#. [side]: type=Elvish Captain
+#: Assassin_in_the_Forest/Assassin_in_the_Forest.cfg:70
+msgid "Irliyfil"
+msgstr ""
+
+#. [side]: type=Dwarvish Steelclad
+#: Assassin_in_the_Forest/Assassin_in_the_Forest.cfg:81
+msgid "Target 2"
+msgstr ""
+
+#. [side]: type=Dwarvish Steelclad
+#: Assassin_in_the_Forest/Assassin_in_the_Forest.cfg:86
+msgid "Gran"
+msgstr ""
+
+#. [side]: type=Lieutenant
+#: Assassin_in_the_Forest/Assassin_in_the_Forest.cfg:97
+msgid "Target 3"
+msgstr ""
+
+#. [side]: type=Lieutenant
+#: Assassin_in_the_Forest/Assassin_in_the_Forest.cfg:102
+msgid "Sir Tyreat"
+msgstr ""
+
+#. [side]: type=Drake Flare
+#: Assassin_in_the_Forest/Assassin_in_the_Forest.cfg:113
+msgid "Target 4"
+msgstr ""
+
+#. [side]: type=Drake Flare
+#: Assassin_in_the_Forest/Assassin_in_the_Forest.cfg:118
+msgid "Kareshi"
+msgstr ""
+
+#. [side]: type=Orcish Warrior
+#: Assassin_in_the_Forest/Assassin_in_the_Forest.cfg:129
+msgid "Target 5"
+msgstr ""
+
+#. [side]: type=Orcish Warrior
+#: Assassin_in_the_Forest/Assassin_in_the_Forest.cfg:134
+msgid "Bnaa"
+msgstr ""
+
+#. [objective]: condition=win
+#: Assassin_in_the_Forest/Assassin_in_the_Forest.cfg:362
+msgid "Use your skills to eliminate the enemy leaders"
+msgstr ""
+
+#. [objective]: condition=win
+#: Assassin_in_the_Forest/Assassin_in_the_Forest.cfg:364
+msgid "Use your skills to eliminate <span underline='single'>all</span> enemy units"
+msgstr ""
+
+#. [objectives]
+#: Assassin_in_the_Forest/Assassin_in_the_Forest.cfg:367
+msgid ""
+"Your Assassin is a skirmisher, and he\n"
+"<span color='#AAFFFF'>• can hide in villages\n"
+"• can hide during nighttime\n"
+"• can hide if he has used no more than half of his movement points\n"
+"• regains 1 MP for each hit with his melee weapon\n"
+"• can use remaining knives after attacking with his ranged weapon</span>"
+msgstr ""
+
+#: Assassin_in_the_Forest/Forest_Assassin.cfg:4
+msgid "This unit can hide from enemies by sacrificing half of it’s MP."
+msgstr ""
+
+#: Assassin_in_the_Forest/Forest_Assassin.cfg:6
+msgid "Every melee hit of this unit gives her MP back, which allow her to escape to a better position after the fight."
+msgstr ""
+
+#: Assassin_in_the_Forest/Forest_Assassin.cfg:8
+msgid "If this unit has knives left after a ranged battle, it might throw them at another bystanding unit."
+msgstr ""
+
+#. [hides]: id=sneak
+#: Assassin_in_the_Forest/Forest_Assassin.cfg:35
+msgid "sneak"
+msgstr ""
+
+#. [hides]: id=sneak
+#: Assassin_in_the_Forest/Forest_Assassin.cfg:36
+msgid "female^sneak"
+msgstr ""
+
+#. [hides]: id=sneak
+#: Assassin_in_the_Forest/Forest_Assassin.cfg:37
+msgid "This unit can hide from enemies if it has used no more than half of its movement points."
+msgstr ""
+
+#. [dummy]: id=slashdash
+#: Assassin_in_the_Forest/Forest_Assassin.cfg:57
+msgid "slash’n’dash"
+msgstr ""
+
+#. [dummy]: id=slashdash
+#: Assassin_in_the_Forest/Forest_Assassin.cfg:58
+msgid "When used offensively, every hit with this weapon grants 1 movement point."
+msgstr ""
+
+#. [dummy]: id=remaining_ammo
+#: Assassin_in_the_Forest/Forest_Assassin.cfg:70
+msgid "remaining knives"
+msgstr ""
+
+#. [dummy]: id=remaining_ammo
+#: Assassin_in_the_Forest/Forest_Assassin.cfg:71
+msgid "If any ammo remains after killing a unit with this attack, then it may be used in another attack."
+msgstr ""
+
+#. [unit_type]: id=Forest_Assassin, description= 
+#: Assassin_in_the_Forest/Forest_Assassin.cfg:78
+msgid "Forest Assassin"
+msgstr ""
+
