@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-10-24 01:45 UTC\n"
-"PO-Revision-Date: 2024-12-14 01:01+0100\n"
+"PO-Revision-Date: 2024-12-17 20:41+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -18,11 +18,8 @@ msgstr ""
 #. [scenario]: id=Stabs
 #: Assassin_in_the_Forest/_main.cfg:14
 #: Assassin_in_the_Forest/Assassin_in_the_Forest.cfg:11
-#, fuzzy
 msgid "Assassin in the Forest"
-msgstr ""
-"Vrah v lese\n"
-" "
+msgstr "Vrah v lese"
 
 #. [campaign]: id=Assassin_in_the_Forest
 #: Assassin_in_the_Forest/_main.cfg:15
@@ -48,9 +45,8 @@ msgstr ""
 
 #. [campaign]: id=Assassin_in_the_Forest
 #: Assassin_in_the_Forest/_main.cfg:21
-#, fuzzy
 msgid "AitF"
-msgstr "Aitf"
+msgstr "VvL"
 
 #. [difficulty]
 #: Assassin_in_the_Forest/_main.cfg:31
@@ -149,11 +145,10 @@ msgstr ""
 "• může použít zbývající nože po útoku zbraní na dálku</span>"
 
 #: Assassin_in_the_Forest/Forest_Assassin.cfg:4
-#, fuzzy
 msgid "This unit can hide from enemies by sacrificing half of it’s MP."
 msgstr ""
 "Tato jednotka se může skrýt před nepřáteli, pokud obětuje polovinu svých "
-"bodů pohybu"
+"bodů pohybu."
 
 #: Assassin_in_the_Forest/Forest_Assassin.cfg:6
 msgid ""
@@ -183,12 +178,11 @@ msgstr "plížení"
 
 #. [hides]: id=sneak
 #: Assassin_in_the_Forest/Forest_Assassin.cfg:37
-#, fuzzy
 msgid ""
 "This unit can hide from enemies if it has used no more than half of its "
 "movement points."
 msgstr ""
-" Tato jednotka se může skrýt před nepřáteli, pokud nevyužila více než "
+"Tato jednotka se může skrýt před nepřáteli, pokud nevyužila více než "
 "polovinu svých bodů pohybu."
 
 #. [dummy]: id=slashdash
@@ -198,10 +192,9 @@ msgstr ""
 
 #. [dummy]: id=slashdash
 #: Assassin_in_the_Forest/Forest_Assassin.cfg:58
-#, fuzzy
 msgid ""
 "When used offensively, every hit with this weapon grants 1 movement point."
-msgstr "Při útočném použití získáte za každý zásah touto zbraní 1 bod pohybu."
+msgstr "Při útočném použití získáš za každý zásah touto zbraní 1 bod pohybu."
 
 #. [dummy]: id=remaining_ammo
 #: Assassin_in_the_Forest/Forest_Assassin.cfg:70
