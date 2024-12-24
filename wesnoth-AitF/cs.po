@@ -45,7 +45,7 @@ msgstr ""
 #. [campaign]: id=Assassin_in_the_Forest
 #: Assassin_in_the_Forest/_main.cfg:21
 msgid "AitF"
-msgstr "Aitf"
+msgstr "VvL"
 
 #. [difficulty]
 #: Assassin_in_the_Forest/_main.cfg:31
