@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-10-24 01:45 UTC\n"
-"PO-Revision-Date: 2024-12-17 20:41+0100\n"
+"PO-Revision-Date: 2024-12-24 14:43+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -13,6 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 3.5\n"
 
 #. [campaign]: id=Assassin_in_the_Forest
 #. [scenario]: id=Stabs
@@ -60,9 +61,8 @@ msgstr "obtížná"
 
 #. [difficulty]
 #: Assassin_in_the_Forest/_main.cfg:49
-#, fuzzy
 msgid "kill all"
-msgstr "zlý sen"
+msgstr "zabij všechny"
 
 #. [side]: type=Elvish Captain
 #: Assassin_in_the_Forest/Assassin_in_the_Forest.cfg:65
@@ -210,7 +210,7 @@ msgstr ""
 "Pokud po zabití jednotky tímto útokem zůstane nějaká munice, lze ji použít "
 "při dalším útoku."
 
-#. [unit_type]: id=Forest_Assassin, description= 
+#. [unit_type]: id=Forest_Assassin, description=
 #: Assassin_in_the_Forest/Forest_Assassin.cfg:78
 msgid "Forest Assassin"
 msgstr "Lesní vrah"
